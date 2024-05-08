@@ -2,3 +2,5 @@ venv
 .env
 
 parsing.py
+
+.DS_Store
